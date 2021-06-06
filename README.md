@@ -4,11 +4,11 @@ A front-end monkey testing suite based on Python webdriver
 
 #### Clicker
 
-- Randomly click on the page visible area.
+- Randomly click on the page visible area
 
 - Prevent navigation automatically
 
-- Switch back immediately when new pages are openned
+- Switch back immediately when new pages are opened
 
 - [TODO] Identify clickable object and focus on then
 
